@@ -41,8 +41,8 @@ project-root/
 ```
 
 ## 📎 Resources
-- [Executive Summary PDF](./reports/SaaS_Executive_Summary.pdf)
-- [Tableau Public Dashboard](#) *(Insert your published link)*
+- [Executive Summary PDF:https://docs.google.com/presentation/d/1_CSa-u6nRCyFbGWMOzCoNj5UPZFubl0rHNl1GnpOYiM/edit?usp=sharing]
+- [Tableau Public Dashboard: https://public.tableau.com/app/profile/pallavi.aripirala/viz/saasdashboard/Dashboard1?publish=yes]
 
 ## 🙋 Contact
 📧 pallaviaripirala30465@gmail.com  
